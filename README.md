@@ -9,11 +9,11 @@
 - Squirrel Census Analysis
 
 ### 2024
-- <a href="https://github.com/mlewispeinad/projects/blob/main/esophegal-cancer-risk.pdf">Esophageal Cancer Risk Model</a>
-- MIA flight delay model
-- Reflecting on the Turnaway Study: A Literature Review
-- <a href="https://github.com/mlewispeinad/projects/tree/main/Spotify-Data">Spotify Data Analysis & Tutorial</a>
-- <a href="https://github.com/mlewispeinad/projects/blob/main/UMassTuition.pdf">Investigating UMass’s Rising In-State Tuition</a> 
+- Esophageal Cancer Risk Model [<a href="https://github.com/mlewispeinad/projects/blob/main/esophegal-cancer-risk.pdf">pdf</a>]
+- MIA flight delay model [<a href="https://github.com/mlewispeinad/projects/blob/main/MIAflights-paper.pdf">pdf</a>]
+- Reflecting on the Turnaway Study: A Literature Review [<a href="https://github.com/mlewispeinad/projects/blob/main/turnaway-study/Presentation.pdf">pdf</a>]
+- Spotify Data Analysis & Tutorial [<a href="https://github.com/mlewispeinad/projects/blob/main/Spotify-Data/Paper.Rmd">Rmd</a> , <a href="https://github.com/mlewispeinad/projects/blob/main/Spotify-Data/Presentation.pdf">pdf</a>] 
+- Investigating UMass’s Rising In-State Tuition [<a href="https://github.com/mlewispeinad/projects/blob/main/UMassTuition.pdf">pdf</a>]
   
 ### 2022 - 2023
 - <a href="https://github.com/mlewispeinad/projects/blob/main/opioid-crisis.pdf">Unveiling Opioid Crisis Impact: A Study on Young Native American Overdose Mortality Rates (2006-2020)</a>
