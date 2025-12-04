@@ -6,6 +6,8 @@
 
 ## <a href="https://github.com/mlewispeinad/projects/">Projects</a>
 ### 2025
+- Predicting Youth METRO Ridership after the Youth Cruz Free Program (Coming Soon...)
+- Applications of Statistical Learning in Healthcare & Public Health (Coming Soon...)
 - Squirrel Census Analysis [<a href="https://github.com/mlewispeinad/projects/blob/main/squirrel-census/presentation.Rmd">Rmd</a>]
 - Math-Related Wikipedia Pages Analysis [<a href="https://github.com/mlewispeinad/projects/blob/main/math-wiki/presentation.Rmd">Rmd</a>, <a href="https://github.com/mlewispeinad/projects/blob/main/math-wiki/ShinyApp.R">.R</a>]
 
