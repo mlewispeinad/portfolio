@@ -32,8 +32,8 @@ B.S., Mathematics with a Concentration in Statistics & Data Science | University
   - Managed a cross-functional HR analytics project for Biogen, coordinating three sub teams and stakeholders to
 ensure strategic alignment and timely deliverables.
   - Lead project planning, client communications, and team meetings. Contributed to early-stage EDA, identifying key outliers and data issues. Provided insights to help Biogen improve hiring efficiency for biostatistics-related positions.
-- Summer Consultant (May 2025 - Present)
-  - Serving as a consultant during the summer term; actively awaiting assignment to new projects.
+- Summer Consultant (May 2025 - August 2025)
+  - Served as a consultant during the summer term.
 
 **Intern @ UMass Research Computing Facility (*September 2024 - Present*)**
 - Physically set up rack-mounted HPC cluster nodes.
